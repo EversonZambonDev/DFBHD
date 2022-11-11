@@ -1,0 +1,151 @@
+226 People
+23 Vehicles/Objects
+1161 Buildings/Decorations
+281 Markers
+6 Area Triggers
+
+--------------------------------------
+
+12992K - Approximate Vertex Data
+
+3DI Memory Usage Statistics
+--------
+  403K	MCOlympi - Low Poly closed Version of Olym
+  150K	MogBlk01 - Mogadishu City Block1 Moderatel
+  124K	MogBlk02 - Mogadishu City Block2 Moderatel
+  231K	MogBlk03 - Mogadishu City Block3 Moderatel
+  187K	MogBlk04 - Mogadishu City Block4 Moderatel
+  130K	MogBlk06 - Mogadishu City Block6 Highly Ge
+  104K	MogBlk07 - Mogadishu City Block7 Highly Ge
+  103K	MogBlk08 - Mogadishu City Block8 Highly Ge
+   42K	MogSlm01 - Mogadishu Slum Hut Single Unit
+    8K	MogSlm02 - Mogadishu Slum Hut double unit
+   63K	MogSlm03 - Mogadishu Slum Hut Triple Unit
+   57K	MogSlm04 - Mogadishu Slum Hut 4 connected 
+   15K	MogShd1 - Mogadishu Style shed 
+   31K	MogShd2 - Mogadishu Style shed 
+   16K	MogShd3 - Mogadishu Style shed 
+  232K	SP_Bld1 - One Story Bld with Roof Access.
+   85K	mogarch - City Street Archway
+  139K	MogBld4 - 2 story bombed out building for
+  514K	MCtargcd - Version of Mctarget for Lost Co
+  149K	NCar1hsk - Bombed-Out Neutral European Car
+  158K	NTrk1hsk - Bombed-Out Neutral Compact Pick
+   42K	Fjeep2hk - Placable Husk for Fjeep2
+  299K	FAH6b - Friendly Light Helicopter LITTL
+  311K	ETek2 - Technical enemy vehicle with mo
+  115K	ETek2x - Technical Enemy Vehicle placabl
+  692K	Fblkhawf - Blackhawk used for fast roping
+  219K	F5tonC - Friendly 5.5 ton with closed ta
+  103K	ETek1P - Technical Husk with working 50 
+  321K	Nbus1P - Parked Version of Refugee Bus
+  246K	Nbus2P - Parked version of Bus with Crop
+  690K	Fblkhawk - Indestructible Blackhawk with t
+  374K	Fhum50 - Hummer with NON-Armored 50cal
+  428K	Etrck1p - Parked Version of Enemy Cargo T
+    5K	StnWal04 - Straight stone wall piece
+   31K	Sack03 - Multiple Sacks of Rice
+    5K	StnWal01 - Stone Wall Straight Segment
+   16K	StnWal02 - Corner Piece
+    9K	Tire01 - Stack of used Tires
+    9K	Tire02 - Tire02
+  167K	VndCrt - Vending Cart
+    0K	Trash01 - Scattered papers and waste
+   34K	Baricd02 - Baricade 1m tile-able
+   31K	Wlad01 - Ladder 7m 
+  114K	Baricd03 - Baricade 5m made of debris and 
+    4K	Barl01 - Single wooden Barrel1
+   21K	Barl02 - Single wooden Barrel2
+    4K	WTrsh1 - Large Trash pile to be placed a
+    4K	WTrsh2 - Small Trash pile to be placed a
+    7K	WTrsh3 - Corner Trash pile to be placed 
+		WTrsh3 - Wall Trash, used for outer conv
+    9K	rmcabnts - Blocking Furniture
+    9K	TireB01 - TireB01
+    8K	Sofa01 - Old Damaged Sofa
+   19K	Table02 - Broken Coffee Table
+   22K	Chair02 - Broken Office Chair
+   50K	rmlivinA - 2 couch with broken coffee tabl
+    7K	WTrsh3 - Wall Trash, used for outer conv
+		WTrsh3 - Corner Trash pile to be placed 
+    2K	FireBrl4 - Barrel with holes, Large bonfie
+   50K	MwalA1 - Long Straight Wall Piece, Type 
+   26K	Wdebris1 - Modular Wall Debris, straight P
+   12K	Wdebris2 - Modular Wall Debris, Right End 
+    6K	Wdebris3 - Modular Wall Debris, Left End C
+   10K	RBL_C1 - Building Rubble Corner Piece Sh
+   17K	RBL_C2 - Building Rubble Corner Piece Lo
+   13K	RBL_S1 - Building Rubble Straight Piece 
+   15K	RBL_T1 - Building Rubble T intersection 
+   24K	RBL_T2 - Building Rubble T intersection 
+   14K	RBL_P2 - Building Rubble Pile Piece type
+    8K	RBL_P3 - Building Rubble Pile Piece type
+    4K	MogFill1 - Box and Couple of Baskets for u
+    3K	MogFill2 - Couple of Hanging shirts for us
+   62K	RdBlk1 - Road Block Made of various Debr
+  172K	RdBlk2 - Road Block Made of various Debr
+   31K	Bed02 - Bed mattress on top of wooden p
+    6K	Lndry01 - Laundry line that hangs between
+  105K	Csomal01 - Civilian Man Somalian #1
+   94K	Csomal02 - Civilian Man Somalian #2
+  108K	CSomalF1 - Civilian Woman Somalian #1
+   99K	CSomalF2 - Civilian Woman Somalian #2
+  229K	Ranger01 - Combat Friendly Soldier Ranger0
+  101K	ESomal01 - Enemy Somalian Soldier with AK4
+   94K	ESomal02 - Enemy Somalian Soldier with AK4
+  107K	ESomal03 - Enemy Somalian Soldier with RPG
+  106K	ESomal04 - Enemy Somalian Malitia Member4
+		ESomal04 - USE FOR ROOFTOPS ONLY
+  100K	ESomal05 - Enemy Somalian Malitia Member5
+		ESomal05 - USE FOR ROOFTOPS ONLY
+  103K	ESomal06 - Enemy Somalian Malitia Member6
+		ESomal06 - USE FOR ROOFTOPS ONLY
+  109K	ESomal07 - Enemy Somalian Malitia Member7
+  115K	ESomal08 - Enemy Somalian Malitia Member8
+  102K	ESomal09 - Enemy Somalian Malitia Member9
+		ESomal09 - USE ONLY ON ROOFTOPS
+  102K	ESomal09 - USE ONLY ON ROOFTOPS
+		ESomal09 - Enemy Somalian Malitia Member9
+  287K	Delta02 - Delta Force Teammate 2
+  292K	Delta03 - Delta Force Teammate 3
+  289K	Delta04 - Delta Force Teammate 4
+  212K	TenthMT2 - 10th Mountain Teammate 2
+  242K	Ranger02 - Combat Friendly Soldier Ranger0
+  106K	ESomal04 - USE FOR ROOFTOPS ONLY
+		ESomal04 - Enemy Somalian Malitia Member4
+  100K	ESomal05 - USE FOR ROOFTOPS ONLY
+		ESomal05 - Enemy Somalian Malitia Member5
+  103K	ESomal06 - USE FOR ROOFTOPS ONLY
+		ESomal06 - Enemy Somalian Malitia Member6
+  107K	CSomalF3 - Civilian Woman Somalian #3
+  107K	CSomalF4 - Civilian Woman Somalian #4
+   95K	Csomal05 - Civilian Man Somalian #5
+   95K	Csomal06 - Civilian Man Somalian #6
+   89K	CsomalT1 - Civilian Man Somalian w
+   90K	CsomalT2 - Civilian Man Somalian w
+  210K	TenthMT3 - 10th Mountain Teammate 3
+    0K	FxBsmokL - Large amount of Black smoke
+    0K	FxFire1m - Fire 1m tall
+    2K	PwrMed - Power Up Med Pack
+    2K	PwrAmmo - Power Up Ammo Pack
+   36K	Dt01a - Small Desert Tree
+   37K	Dt01c - Large Desert Tree
+    5K	GB01a - Medium Green Bush used in deser
+   16K	GP01a - Double Palm tree Group
+   25K	Gt01a - Green Tree type one version A
+    1K	Wbush01 - Large Wall Foliage, for placeme
+    1K	Wbush02 - Med Wall Foliage, for placement
+    1K	Wbush03 - Small Wall Foliage, for placeme
+   77K	Gbush01 - Large Group of tall grass like 
+    0K	Pos_Sm01 - Propaganda Somalian Grafitti 01
+   36K	Telepol1 - Telephone pole,single pole w
+    2K	Trash02 - Scattered papers and waste #2
+   31K	Bed05 - Bed mattress, Only use this for
+  132K	RngrFall - Wounded Soldier
+    8K	Mbarrel1 - Single metal barrel
+    2K	wcrate1 - Single wooden crate
+    5K	wcrate2 - Group of wooden crates2
+  211K	TenthMTN - 10th Mountain Teammate 1
+  100K	Csomal03 - Civilian Man Somalian #3
+  265K	Fblkhwkx - Use this for downed helicopter
+--------------------------------------
