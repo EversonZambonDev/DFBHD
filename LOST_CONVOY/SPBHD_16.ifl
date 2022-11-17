@@ -1,6 +1,6 @@
 Mission Assets: SPBHD_16.mis
 
-  3DI listing (139)
+  3DI listing (154)
     MCOlympi.3di
     MogBlk01.3di
     MogBlk02.3di
@@ -17,9 +17,17 @@ Mission Assets: SPBHD_16.mis
     MogShd1.3di
     MogShd2.3di
     MogShd3.3di
+    HN_Bld1.3di
+    RE_Bld1.3di
+    RdioBld1.3di
+    SP_Bld2.3di
     SP_Bld1.3di
-    mogarch.3di
-    MogBld4.3di
+    UNBld01.3di
+    MogBlk09.3di
+    WareHs04.3di
+    WareHs05.3di
+    WareHs06.3di
+    Brdgston.3di
     MCtargcd.3di
     NCar1hsk.3di
     Ncar1x.3di
@@ -54,7 +62,6 @@ Mission Assets: SPBHD_16.mis
     VndCrtx.3di
     Trash01.3di
     Baricd02.3di
-    Wlad01.3di
     Baricd03.3di
     Barl01.3di
     Barl02.3di
@@ -63,11 +70,15 @@ Mission Assets: SPBHD_16.mis
     WTrsh3.3di
     rmcabnts.3di
     TireB01.3di
+    Bed01.3di
     Sofa01.3di
     Table02.3di
+    Table03.3di
     Chair02.3di
     rmlivinA.3di
+    FireBrl1.3di
     FireBrl4.3di
+    CmpFire2.3di
     MwalA1.3di
     Wdebris1.3di
     Wdebris2.3di
@@ -86,6 +97,8 @@ Mission Assets: SPBHD_16.mis
     RdBlk2.3di
     RdBlk2X.3di
     Bed02.3di
+    Bed03.3di
+    Fountn01.3di
     Lndry01.3di
     Csomal01.3di
     Csomal02.3di
@@ -122,11 +135,13 @@ Mission Assets: SPBHD_16.mis
     GB01a.3di
     GP01a.3di
     Gt01a.3di
+    Gt02a.3di
     Wbush01.3di
     Wbush02.3di
     Wbush03.3di
     Gbush01.3di
-    Pos_Sm01.3di
+    Etek4p.3di
+    Etek45x.3di
     Telepol1.3di
     Trash02.3di
     Bed05.3di

@@ -1,6 +1,6 @@
 Mission Assets: SPBHD_15.mis
 
-  3DI listing (184)
+  3DI listing (185)
     Bnkr07.3di
     MCOlympi.3di
     MCTarget.3di
@@ -20,8 +20,9 @@ Mission Assets: SPBHD_15.mis
     RdioBld2.3di
     SP_Bld1.3di
     mogarch.3di
+    NCar1.3di
+    NCar1x.3di
     NCar1hsk.3di
-    Ncar1x.3di
     NTrk1hsk.3di
     NTrk1X.3di
     Fhum2.3di
@@ -187,6 +188,7 @@ Mission Assets: SPBHD_15.mis
     Csomal04.3di
 
   AIP listing (9)
+    G_jeep.aip
     sitgrnd1.aip
     h_ah6z.aip
     h_bhawkn.aip
@@ -194,7 +196,6 @@ Mission Assets: SPBHD_15.mis
     sitboat.aip
     wu.aip
     g_jeeps.aip
-    G_Jeep.aip
     h_bhawk.aip
 
   ADM listing (25)

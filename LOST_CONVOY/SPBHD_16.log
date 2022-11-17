@@ -1,12 +1,12 @@
 226 People
 23 Vehicles/Objects
-1161 Buildings/Decorations
-281 Markers
-6 Area Triggers
+1174 Buildings/Decorations
+273 Markers
+7 Area Triggers
 
 --------------------------------------
 
-12992K - Approximate Vertex Data
+16974K - Approximate Vertex Data
 
 3DI Memory Usage Statistics
 --------
@@ -25,9 +25,17 @@
    15K	MogShd1 - Mogadishu Style shed 
    31K	MogShd2 - Mogadishu Style shed 
    16K	MogShd3 - Mogadishu Style shed 
+ 1130K	HN_Bld1 - two story Main building in Horn
+  905K	RE_Bld1 - Russian Style Embassy for Tranq
+  259K	RdioBld1 - four Story Radio Bld in INTERCE
+  532K	SP_Bld2 - Two Story Bld with Roof Access.
   232K	SP_Bld1 - One Story Bld with Roof Access.
-   85K	mogarch - City Street Archway
-  139K	MogBld4 - 2 story bombed out building for
+  830K	UNBld01 - US
+  156K	MogBlk09 - Mogadishu City Block9 Highly Ge
+   21K	WareHs04 - Warehouse building #4
+   20K	WareHs05 - Warehouse building #5
+   29K	WareHs06 - Warehouse building #6
+   70K	Brdgston - Stone Arched Bridge 32 meters a
   514K	MCtargcd - Version of Mctarget for Lost Co
   149K	NCar1hsk - Bombed-Out Neutral European Car
   158K	NTrk1hsk - Bombed-Out Neutral Compact Pick
@@ -52,7 +60,6 @@
   167K	VndCrt - Vending Cart
     0K	Trash01 - Scattered papers and waste
    34K	Baricd02 - Baricade 1m tile-able
-   31K	Wlad01 - Ladder 7m 
   114K	Baricd03 - Baricade 5m made of debris and 
     4K	Barl01 - Single wooden Barrel1
    21K	Barl02 - Single wooden Barrel2
@@ -62,13 +69,17 @@
 		WTrsh3 - Wall Trash, used for outer conv
     9K	rmcabnts - Blocking Furniture
     9K	TireB01 - TireB01
+    4K	Bed01 - Messy Mattress on the floor
     8K	Sofa01 - Old Damaged Sofa
    19K	Table02 - Broken Coffee Table
+   14K	Table03 - Broken end table with lamp on t
    22K	Chair02 - Broken Office Chair
    50K	rmlivinA - 2 couch with broken coffee tabl
+    2K	FireBrl1 - Barrel with large contained bon
     7K	WTrsh3 - Wall Trash, used for outer conv
 		WTrsh3 - Corner Trash pile to be placed 
     2K	FireBrl4 - Barrel with holes, Large bonfie
+    1K	CmpFire2 - Camp fire with smoldering ember
    50K	MwalA1 - Long Straight Wall Piece, Type 
    26K	Wdebris1 - Modular Wall Debris, straight P
    12K	Wdebris2 - Modular Wall Debris, Right End 
@@ -85,6 +96,8 @@
    62K	RdBlk1 - Road Block Made of various Debr
   172K	RdBlk2 - Road Block Made of various Debr
    31K	Bed02 - Bed mattress on top of wooden p
+   37K	Bed03 - Bed mattress on top of wooden p
+   33K	Fountn01 - Large Broken fountain
     6K	Lndry01 - Laundry line that hangs between
   105K	Csomal01 - Civilian Man Somalian #1
    94K	Csomal02 - Civilian Man Somalian #2
@@ -133,11 +146,12 @@
     5K	GB01a - Medium Green Bush used in deser
    16K	GP01a - Double Palm tree Group
    25K	Gt01a - Green Tree type one version A
+   14K	Gt02a - Green Tree type Two version A
     1K	Wbush01 - Large Wall Foliage, for placeme
     1K	Wbush02 - Med Wall Foliage, for placement
     1K	Wbush03 - Small Wall Foliage, for placeme
    77K	Gbush01 - Large Group of tall grass like 
-    0K	Pos_Sm01 - Propaganda Somalian Grafitti 01
+  172K	Etek4p - Technical, parked4
    36K	Telepol1 - Telephone pole,single pole w
     2K	Trash02 - Scattered papers and waste #2
    31K	Bed05 - Bed mattress, Only use this for

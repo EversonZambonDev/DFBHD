@@ -1,12 +1,12 @@
 255 People
-38 Vehicles/Objects
+39 Vehicles/Objects
 1199 Buildings/Decorations
-350 Markers
+354 Markers
 23 Area Triggers
 
 --------------------------------------
 
-16143K - Approximate Vertex Data
+16359K - Approximate Vertex Data
 
 3DI Memory Usage Statistics
 --------
@@ -28,6 +28,7 @@
   386K	RdioBld2 - Main radio Building in Operatio
   232K	SP_Bld1 - One Story Bld with Roof Access.
    85K	mogarch - City Street Archway
+  215K	NCar1 - Neutral European Car Small
   149K	NCar1hsk - Bombed-Out Neutral European Car
   158K	NTrk1hsk - Bombed-Out Neutral Compact Pick
   351K	Fhum2 - Friendly Hummer standard Versio
