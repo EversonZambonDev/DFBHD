@@ -1,12 +1,12 @@
 226 People
 23 Vehicles/Objects
-1175 Buildings/Decorations
-276 Markers
+1178 Buildings/Decorations
+272 Markers
 7 Area Triggers
 
 --------------------------------------
 
-16974K - Approximate Vertex Data
+16875K - Approximate Vertex Data
 
 3DI Memory Usage Statistics
 --------
@@ -42,7 +42,7 @@
    42K	Fjeep2hk - Placable Husk for Fjeep2
   299K	FAH6b - Friendly Light Helicopter LITTL
   311K	ETek2 - Technical enemy vehicle with mo
-  115K	ETek2x - Technical Enemy Vehicle placabl
+    0K	ETek2x - Technical Enemy Vehicle placabl
   692K	Fblkhawf - Blackhawk used for fast roping
   219K	F5tonC - Friendly 5.5 ton with closed ta
   103K	ETek1P - Technical Husk with working 50 
@@ -81,6 +81,7 @@
     2K	FireBrl4 - Barrel with holes, Large bonfie
     1K	CmpFire2 - Camp fire with smoldering ember
    50K	MwalA1 - Long Straight Wall Piece, Type 
+   17K	Dressr02 - Dresser, interior decoration on
    26K	Wdebris1 - Modular Wall Debris, straight P
    12K	Wdebris2 - Modular Wall Debris, Right End 
     6K	Wdebris3 - Modular Wall Debris, Left End C
