@@ -1,4 +1,4 @@
-// mission metafile, saved on 11/27/2022, 18:28
+// mission metafile, saved on 11/28/2022, 21:58
 
 
 begin general_information
@@ -21,8 +21,8 @@ begin general_information
   num_items 2515
   num_events 139
   sunset day3
-  viewx 71508
-  viewy -434867
+  viewx 179787
+  viewy -408288
   viewz 0
   viewzoom 0.015912
   gen_def_val1 0
@@ -61383,11 +61383,14 @@ begin item 1734
   group_id 40
   wpdistance 10
   fov 180
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 140
   edistances 140 140
@@ -61416,11 +61419,14 @@ begin item 1735
   group_id 40
   wpdistance 10
   fov 180
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 140
   edistances 140 140
@@ -61449,11 +61455,14 @@ begin item 1736
   group_id 40
   wpdistance 10
   fov 180
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 140
   edistances 140 140
@@ -61482,11 +61491,14 @@ begin item 1737
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -61517,11 +61529,14 @@ begin item 1738
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -61551,11 +61566,14 @@ begin item 1739
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 75
   edistances 75 75
@@ -61586,12 +61604,15 @@ begin item 1740
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
   movetimer 5
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -61622,12 +61643,15 @@ begin item 1741
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
   movetimer 5
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 155
   edistances 155 155
@@ -61658,11 +61682,14 @@ begin item 1742
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -61693,11 +61720,14 @@ begin item 1743
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -61727,12 +61757,15 @@ begin item 1744
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
   movetimer 10
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 100
   edistances 100 100
@@ -61762,11 +61795,14 @@ begin item 1745
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 75
   edistances 75 75
@@ -61797,11 +61833,14 @@ begin item 1746
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -61870,11 +61909,14 @@ begin item 1748
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -61904,11 +61946,14 @@ begin item 1749
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 75
   edistances 75 75
@@ -61940,11 +61985,14 @@ begin item 1750
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 155
   edistances 155 155
@@ -61975,12 +62023,15 @@ begin item 1751
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
   movetimer 5
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 15
   max_attack_distance 100
   edistances 100 100
@@ -62011,12 +62062,15 @@ begin item 1752
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
   movetimer 7
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 155
   edistances 155 155
@@ -62046,11 +62100,14 @@ begin item 1753
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 8
   waccuracy2 50
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 4
   max_attack_distance 130
   edistances 130 130
@@ -62080,11 +62137,14 @@ begin item 1754
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 10
   waccuracy2 10
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 5
   max_attack_distance 130
   edistances 130 130
@@ -62263,11 +62323,14 @@ begin item 1759
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 2
   max_attack_distance 130
   edistances 130 130
@@ -62442,11 +62505,14 @@ begin item 1764
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 1
   waccuracy2 10
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 75
   edistances 75 75
@@ -62551,11 +62617,14 @@ begin item 1767
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 1
   waccuracy2 1
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 4
   max_attack_distance 160
   edistances 160 160
@@ -62585,11 +62654,14 @@ begin item 1768
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 1
   waccuracy2 1
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 100
   edistances 100 100
@@ -62619,12 +62691,15 @@ begin item 1769
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
   movetimer 10
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 100
   edistances 100 100
@@ -62654,11 +62729,14 @@ begin item 1770
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -62688,11 +62766,14 @@ begin item 1771
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 50
   waccuracy2 50
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 100
   edistances 100 100
@@ -62723,11 +62804,14 @@ begin item 1772
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 155
   edistances 155 155
@@ -62758,11 +62842,14 @@ begin item 1773
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 200
   edistances 200 200
@@ -62792,11 +62879,14 @@ begin item 1774
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -62827,11 +62917,14 @@ begin item 1775
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 100
   edistances 100 100
@@ -62863,11 +62956,14 @@ begin item 1776
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 155
   edistances 155 155
@@ -62898,11 +62994,14 @@ begin item 1777
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -62933,11 +63032,14 @@ begin item 1778
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -62968,11 +63070,14 @@ begin item 1779
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -63002,11 +63107,14 @@ begin item 1780
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -63036,11 +63144,14 @@ begin item 1781
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 50
   waccuracy2 50
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 100
   edistances 100 100
@@ -63071,11 +63182,14 @@ begin item 1782
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -63106,12 +63220,15 @@ begin item 1783
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 50
   waccuracy2 50
   perception2 100
   perfectionist2 100
   movetimer 5
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 150
   edistances 150 150
@@ -63142,11 +63259,14 @@ begin item 1784
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -63176,11 +63296,14 @@ begin item 1785
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 50
   waccuracy2 50
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -63211,11 +63334,14 @@ begin item 1786
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -63246,11 +63372,14 @@ begin item 1787
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -63280,11 +63409,14 @@ begin item 1788
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 50
   waccuracy2 50
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -63315,11 +63447,14 @@ begin item 1789
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -63350,12 +63485,15 @@ begin item 1790
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
   movetimer 5
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 155
   edistances 155 155
@@ -63386,11 +63524,14 @@ begin item 1791
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 50
   waccuracy2 50
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -63420,11 +63561,14 @@ begin item 1792
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -63455,11 +63599,14 @@ begin item 1793
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 75
   edistances 75 75
@@ -63490,11 +63637,14 @@ begin item 1794
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -63525,11 +63675,14 @@ begin item 1795
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -63560,12 +63713,15 @@ begin item 1796
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
   movetimer 7
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 155
   edistances 155 155
@@ -63634,12 +63790,15 @@ begin item 1798
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 50
   waccuracy2 50
   perception2 100
   perfectionist2 100
   movetimer 5
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 150
   edistances 150 150
@@ -63670,12 +63829,15 @@ begin item 1799
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
   movetimer 5
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 15
   max_attack_distance 100
   edistances 100 100
@@ -63706,11 +63868,14 @@ begin item 1800
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -63740,11 +63905,14 @@ begin item 1801
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 75
   edistances 75 75
@@ -63775,11 +63943,14 @@ begin item 1802
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -63810,11 +63981,14 @@ begin item 1803
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -63845,11 +64019,14 @@ begin item 1804
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -63880,12 +64057,15 @@ begin item 1805
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
   movetimer 10
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 100
   edistances 100 100
@@ -63916,11 +64096,14 @@ begin item 1806
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 150
   edistances 150 150
@@ -63951,11 +64134,14 @@ begin item 1807
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 75
   edistances 75 75
@@ -63986,11 +64172,14 @@ begin item 1808
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 100
   edistances 100 100
@@ -64021,11 +64210,14 @@ begin item 1809
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 50
   waccuracy2 50
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -64056,11 +64248,14 @@ begin item 1810
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -64091,11 +64286,14 @@ begin item 1811
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -64203,11 +64401,14 @@ begin item 1814
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 140
   edistances 140 140
@@ -64239,11 +64440,14 @@ begin item 1815
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 50
   waccuracy2 50
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -64274,12 +64478,15 @@ begin item 1816
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
   movetimer 5
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 15
   max_attack_distance 100
   edistances 100 100
@@ -64310,11 +64517,14 @@ begin item 1817
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -64344,11 +64554,14 @@ begin item 1818
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -64379,11 +64592,14 @@ begin item 1819
   ttoolindex -1
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 50
   waccuracy2 50
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -64413,11 +64629,14 @@ begin item 1820
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 50
   waccuracy2 50
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 75
   edistances 75 75
@@ -64448,11 +64667,14 @@ begin item 1821
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 150
   edistances 150 150
@@ -64482,12 +64704,15 @@ begin item 1822
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
   movetimer 5
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 15
   max_attack_distance 100
   edistances 100 100
@@ -64518,11 +64743,14 @@ begin item 1823
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 150
   edistances 150 150
@@ -64552,12 +64780,15 @@ begin item 1824
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
   movetimer 5
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 100
   edistances 100 100
@@ -64588,11 +64819,14 @@ begin item 1825
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 140
   edistances 140 140
@@ -64663,11 +64897,14 @@ begin item 1827
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -64698,11 +64935,14 @@ begin item 1828
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -64733,11 +64973,14 @@ begin item 1829
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -64768,11 +65011,14 @@ begin item 1830
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 6
   max_attack_distance 150
   edistances 150 150
@@ -64802,11 +65048,14 @@ begin item 1831
   wpdistance 10
   fov 180
   alert_state 2
+  obliqueness 15
   waccuracy1 70
   waccuracy2 70
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 120
   edistances 120 120
@@ -64916,11 +65165,14 @@ begin item 1834
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 3
   max_attack_distance 80
   edistances 80 80
@@ -64950,11 +65202,14 @@ begin item 1835
   wpdistance 10
   fov 180
   alert_state 2
+  obliqueness 15
   waccuracy1 70
   waccuracy2 70
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 120
   edistances 120 120
@@ -64984,11 +65239,14 @@ begin item 1836
   ttoolindex -1
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 70
   waccuracy2 70
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 85
   edistances 85 85
@@ -65018,11 +65276,14 @@ begin item 1837
   wpdistance 10
   fov 180
   alert_state 2
+  obliqueness 15
   waccuracy1 70
   waccuracy2 70
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 120
   edistances 120 120
@@ -65051,11 +65312,14 @@ begin item 1838
   group_id 40
   wpdistance 10
   fov 180
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 80
   edistances 80 80
@@ -65084,11 +65348,14 @@ begin item 1839
   group_id 40
   wpdistance 10
   fov 180
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 140
   edistances 140 140
@@ -65118,11 +65385,14 @@ begin item 1840
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 16
   max_attack_distance 140
   edistances 140 140
@@ -65190,11 +65460,14 @@ begin item 1842
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 70
   waccuracy2 70
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 85
   edistances 85 85
@@ -65262,11 +65535,14 @@ begin item 1844
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 70
   waccuracy2 70
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 85
   edistances 85 85
@@ -65297,11 +65573,14 @@ begin item 1845
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 16
   max_attack_distance 140
   edistances 140 140
@@ -65369,11 +65648,14 @@ begin item 1847
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 70
   waccuracy2 70
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 85
   edistances 85 85
@@ -65404,12 +65686,15 @@ begin item 1848
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
   movetimer 5
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -65440,11 +65725,14 @@ begin item 1849
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 155
   edistances 155 155
@@ -65474,11 +65762,14 @@ begin item 1850
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -65508,11 +65799,14 @@ begin item 1851
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 2
   max_attack_distance 150
   edistances 150 150
@@ -65544,11 +65838,14 @@ begin item 1852
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 2
   max_attack_distance 150
   edistances 150 150
@@ -65578,11 +65875,14 @@ begin item 1853
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -65605,7 +65905,7 @@ begin item 1854
   ai_textfile ""
   id 153
   position 44463111 -104226096 2686976
-  facing -179 0
+  facing -40 0
   team 2
   map_symbol -1
   group_id 30
@@ -65646,11 +65946,14 @@ begin item 1855
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 75
   edistances 75 75
@@ -65681,11 +65984,14 @@ begin item 1856
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -65716,11 +66022,14 @@ begin item 1857
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 100
   edistances 100 100
@@ -65750,11 +66059,14 @@ begin item 1858
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -65784,11 +66096,14 @@ begin item 1859
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -65818,11 +66133,14 @@ begin item 1860
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -65852,11 +66170,14 @@ begin item 1861
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -65886,11 +66207,14 @@ begin item 1862
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -65920,11 +66244,14 @@ begin item 1863
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -65954,11 +66281,14 @@ begin item 1864
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -65988,11 +66318,14 @@ begin item 1865
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 140
   edistances 140 140
@@ -66022,11 +66355,14 @@ begin item 1866
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -66056,11 +66392,14 @@ begin item 1867
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -66090,11 +66429,14 @@ begin item 1868
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -66124,11 +66466,14 @@ begin item 1869
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 200
   edistances 200 200
@@ -66158,11 +66503,14 @@ begin item 1870
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -66193,11 +66541,14 @@ begin item 1871
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -66227,11 +66578,14 @@ begin item 1872
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -66261,11 +66615,14 @@ begin item 1873
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 125
   edistances 125 125
@@ -66335,11 +66692,14 @@ begin item 1875
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 75
   edistances 75 75
@@ -66369,11 +66729,14 @@ begin item 1876
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -66405,11 +66768,14 @@ begin item 1877
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -66439,11 +66805,14 @@ begin item 1878
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 200
   edistances 200 200
@@ -66473,11 +66842,14 @@ begin item 1879
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -66507,11 +66879,14 @@ begin item 1880
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -66542,11 +66917,14 @@ begin item 1881
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -66576,11 +66954,14 @@ begin item 1882
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -66611,11 +66992,14 @@ begin item 1883
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 155
   edistances 155 155
@@ -66646,11 +67030,14 @@ begin item 1884
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -66681,11 +67068,14 @@ begin item 1885
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -66716,11 +67106,14 @@ begin item 1886
   fov 180
   layer 3
   alert_state 2
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -66751,11 +67144,14 @@ begin item 1887
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 5
   max_attack_distance 75
   edistances 75 75
@@ -66785,12 +67181,15 @@ begin item 1888
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
   movetimer 5
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -66820,11 +67219,14 @@ begin item 1889
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -66855,11 +67257,14 @@ begin item 1890
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 160
   edistances 160 160
@@ -66889,11 +67294,14 @@ begin item 1891
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -66923,11 +67331,14 @@ begin item 1892
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -66957,11 +67368,14 @@ begin item 1893
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -66992,11 +67406,14 @@ begin item 1894
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 155
   edistances 155 155
@@ -67026,11 +67443,14 @@ begin item 1895
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 12
   max_attack_distance 150
   edistances 150 150
@@ -67059,11 +67479,14 @@ begin item 1896
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 130
   edistances 130 130
@@ -67093,11 +67516,14 @@ begin item 1897
   wpdistance 10
   fov 180
   layer 3
+  obliqueness 15
   waccuracy1 90
   waccuracy2 90
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 160
   edistances 160 160
@@ -68457,11 +68883,14 @@ begin item 1934
   group_id 40
   wpdistance 10
   fov 180
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 140
   edistances 140 140
@@ -68490,11 +68919,14 @@ begin item 1935
   group_id 40
   wpdistance 10
   fov 180
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 140
   edistances 140 140
@@ -69336,11 +69768,14 @@ begin item 1961
   wpdistance 10
   fov 180
   layer 7
+  obliqueness 15
   waccuracy1 100
   waccuracy2 100
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 16
   edistances 16 320
@@ -77616,11 +78051,14 @@ begin item 2214
   group_id 40
   wpdistance 10
   fov 180
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 140
   edistances 140 140
@@ -77649,11 +78087,14 @@ begin item 2215
   group_id 40
   wpdistance 10
   fov 180
+  obliqueness 15
   waccuracy1 80
   waccuracy2 80
   perception2 100
   perfectionist2 100
+  crouchtimer 3
   shoottimer 5
+  attention 30
   advancetimer 10
   max_attack_distance 140
   edistances 140 140
